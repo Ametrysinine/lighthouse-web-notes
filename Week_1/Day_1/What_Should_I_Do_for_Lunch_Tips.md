@@ -14,5 +14,5 @@ Note that true else ifs imply that previous ifs/else ifs were false.
 function whatToDoForLunch(hungry, availableTime) {
   console.log("hungry is", hungry);
   console.log("availableTime is", availableTime);
-}```
-
+}
+```
